@@ -1,7 +1,7 @@
 {
-  "name": "voting_client",
+  "name": "chon-ji",
   "version": "1.0.0",
-  "description": "",
+  "description": "A starter kit for client side redux, react, immutable development",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -33,6 +33,10 @@
   "dependencies": {
     "immutable": "^3.7.5",
     "react": "^0.14.3",
-    "react-dom": "^0.14.3"
+    "react-dom": "^0.14.3",
+    "redux": "^3.0.4",
+    "react-addons-pure-render-mixin": "^0.14.3",
+    "react-redux": "^4.0.0",
+    "react-router": "^1.0.0-rc3"
   }
 }
