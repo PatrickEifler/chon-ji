@@ -8,8 +8,8 @@
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js 'test/**/*.@(js|jsx)'",
     "test:watch": "npm run test -- --watch"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react", "redux", "immutable", "webpack"],
+  "author": "Patrick Eifler",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
