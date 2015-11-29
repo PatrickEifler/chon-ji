@@ -1,7 +1,7 @@
 {
   "name": "chon-ji",
   "version": "1.0.0",
-  "description": "A starter kit for client side redux, react, immutable development",
+  "description": "A skeleton for client side redux, react, immutable development",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
